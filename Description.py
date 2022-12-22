@@ -5,8 +5,8 @@ import backtrader
 from datetime import datetime
 
 
-ALPACA_API_KEY = "PKWIUE7UEL1VRYZ5V9F6"
-ALPACA_SECRET_KEY = "Q3i7QXbQG2098nIutKqmQaof2oVLiqwLIk93mcOY"
+ALPACA_API_KEY = "KEY"
+ALPACA_SECRET_KEY = "KEy"
 ALPACA_PAPER = True
 cerebro = backtrader.Cerebro()
 
