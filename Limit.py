@@ -4,8 +4,8 @@ from datetime import datetime
 import alpaca_backtrader_api
 import backtrader
 
-ALPACA_API_KEY = "PKWIUE7UEL1VRYZ5V9F6"
-ALPACA_SECRET_KEY = "Q3i7QXbQG2098nIutKqmQaof2oVLiqwLIk93mcOY"
+ALPACA_API_KEY = "key"
+ALPACA_SECRET_KEY = "key"
 ALPACA_PAPER = True
 
 store = alpaca_backtrader_api.AlpacaStore(
